@@ -1,0 +1,34 @@
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\bin\Debug\Assigment3.exe.config
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\bin\Debug\Assigment3.exe
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\bin\Debug\Assigment3.pdb
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\bin\Debug\Dapper.dll
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\bin\Debug\Dapper.xml
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\bin\Debug\ProductLibrary.pdb
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.Form1.resources
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.LoginForm.resources
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.exe
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.pdb
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\bin\Debug\ProductLibrary.dll
+C:\Users\ADMIN\source\repos\Assigment3\Assigment3\obj\Debug\Assigment3.SearchDetail.resources
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\bin\Debug\Assigment3.exe.config
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\bin\Debug\Assigment3.exe
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\bin\Debug\Assigment3.pdb
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\bin\Debug\Dapper.dll
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\bin\Debug\ProductLibrary.dll
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\bin\Debug\Dapper.xml
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\bin\Debug\ProductLibrary.pdb
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.csprojAssemblyReference.cache
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.Form1.resources
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.LoginForm.resources
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.Properties.Resources.resources
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.SearchDetail.resources
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.GenerateResource.cache
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.CopyComplete
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.exe
+C:\Users\Tri Phan\Desktop\Assigment3.rar\Assigment3\Assigment3\obj\Debug\Assigment3.pdb

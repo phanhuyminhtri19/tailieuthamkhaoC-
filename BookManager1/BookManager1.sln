@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManager1", "BookManager1\BookManager1.csproj", "{8B93D430-0A01-4538-B9F1-560F26689AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookLibrary", "MyBookLibrary\MyBookLibrary.csproj", "{3CA538F6-79C8-43DD-AD42-53344C0E1A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B93D430-0A01-4538-B9F1-560F26689AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B93D430-0A01-4538-B9F1-560F26689AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B93D430-0A01-4538-B9F1-560F26689AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B93D430-0A01-4538-B9F1-560F26689AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA538F6-79C8-43DD-AD42-53344C0E1A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA538F6-79C8-43DD-AD42-53344C0E1A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA538F6-79C8-43DD-AD42-53344C0E1A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA538F6-79C8-43DD-AD42-53344C0E1A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF9478C7-1352-42F9-A22B-E508F84A0183}
+	EndGlobalSection
+EndGlobal

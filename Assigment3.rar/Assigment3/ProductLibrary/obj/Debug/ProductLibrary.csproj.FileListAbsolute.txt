@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\bin\Debug\ProductLibrary.dll.config
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\bin\Debug\ProductLibrary.dll
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\bin\Debug\ProductLibrary.pdb
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\obj\Debug\ProductLibrary.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\obj\Debug\ProductLibrary.pdb
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\bin\Debug\Dapper.dll
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\bin\Debug\Dapper.xml
+C:\Users\ADMIN\source\repos\Assigment3\ProductLibrary\obj\Debug\ProductLibrary.csprojAssemblyReference.cache

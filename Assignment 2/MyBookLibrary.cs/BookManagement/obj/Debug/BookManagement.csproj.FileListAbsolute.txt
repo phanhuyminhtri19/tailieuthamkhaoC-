@@ -1,0 +1,30 @@
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.pdb
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\bin\Debug\MyBookLibrary.cs.dll
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\BookManagement\bin\Debug\MyBookLibrary.cs.pdb
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\bin\Debug\MyBookLibrary.cs.dll
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\bin\Debug\MyBookLibrary.cs.pdb
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\Tri Phan\Desktop\MyBookLibrary\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.pdb
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\bin\Debug\MyBookLibrary.cs.dll
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\bin\Debug\MyBookLibrary.cs.pdb
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.csproj.CopyComplete
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\Tri Phan\Desktop\C# assignment\Assignment 2\MyBookLibrary.cs\BookManagement\obj\Debug\BookManagement.pdb

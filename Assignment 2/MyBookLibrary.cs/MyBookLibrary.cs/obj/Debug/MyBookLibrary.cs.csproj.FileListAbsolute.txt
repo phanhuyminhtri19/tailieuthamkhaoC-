@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\MyBookLibrary.cs\bin\Debug\MyBookLibrary.cs.dll
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\MyBookLibrary.cs\bin\Debug\MyBookLibrary.cs.pdb
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\MyBookLibrary.cs\obj\Debug\MyBookLibrary.cs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\MyBookLibrary.cs\obj\Debug\MyBookLibrary.cs.dll
+C:\Users\ADMIN\source\repos\MyBookLibrary.cs\MyBookLibrary.cs\obj\Debug\MyBookLibrary.cs.pdb

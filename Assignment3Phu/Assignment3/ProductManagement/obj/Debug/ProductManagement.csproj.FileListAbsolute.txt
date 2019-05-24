@@ -1,0 +1,26 @@
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.Form1.resources
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\bin\Debug\ProductManagement.exe.config
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\bin\Debug\ProductManagement.exe
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\bin\Debug\ProductManagement.pdb
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\bin\Debug\ProductLibrary.dll
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\bin\Debug\ProductLibrary.pdb
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.exe
+E:\FPTU\PRN292\practice\Assignment3\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\bin\Debug\ProductLibrary.dll
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\bin\Debug\ProductLibrary.pdb
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.Form1.resources
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\Tri Phan\Desktop\Assignment3Phu\Assignment3\ProductManagement\obj\Debug\ProductManagement.pdb
